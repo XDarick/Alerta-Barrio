@@ -3,13 +3,14 @@
 **Civic urban reporting platform for Lima, Perú.**  
 Citizens report urban problems — potholes, broken lights, waste, unsafe zones — on an interactive map. AI automatically classifies each report and routes it to the responsible authority.
 
+>solo quiero hacer una declaracion de que este solo es un prototipo de lo que puede llegar a ayudar al peru
+>si es que las autoridades lo pueden aplicar bien
+
 **Built by [Andres Darick Velasquez](https://github.com/XDarick)**
-**mis contactos por Gmail : darickvelasquez0@gmail.com**
-**tambien linkedin(https://www.linkedin.com/in/andres-darick-velasquez-hernandez-60558a295/)**
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js)
-![Claude AI](https://img.shields.io/badge/Claude-AI-orange) // mi mejor amigo xd
+![Claude AI](https://img.shields.io/badge/Claude-AI-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
