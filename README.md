@@ -3,10 +3,7 @@
 **Civic urban reporting platform for Lima, Perú.**  
 Citizens report urban problems — potholes, broken lights, waste, unsafe zones — on an interactive map. AI automatically classifies each report and routes it to the responsible authority.
 
->solo quiero hacer una declaracion de que este solo es un prototipo de lo que puede llegar a ayudar al peru
->si es que las autoridades lo pueden aplicar bien
-
-**Built by [Andres Darick Velasquez](https://github.com/XDarick)**
+**Built by [Dakoyzu](https://github.com/Dakoyzu)**
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js)
@@ -43,8 +40,8 @@ Citizens report urban problems — potholes, broken lights, waste, unsafe zones 
 
 ```bash
 # 1. Clone
-git clone https://github.com/XDarick/Alerta-Barrio.git
-cd Alerta-Barrio
+git clone https://github.com/Dakoyzu/alertabarrio.git
+cd alertabarrio
 
 # 2. Install all dependencies
 npm run install:all
@@ -124,5 +121,5 @@ MIT — free to use and modify.
 
 ---
 
-> Built with ❤️ in Lima, Perú by **Darick Velasquez**  
+> Built with ❤️ in Lima, Perú by **Dakoyzu**  
 > Part of a full-stack developer portfolio — React + Node.js
