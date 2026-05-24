@@ -40,7 +40,7 @@ Citizens report urban problems — potholes, broken lights, waste, unsafe zones 
 
 ```bash
 # 1. Clone
-git clone https://github.com/Dakoyzu/alertabarrio.git
+git clone https://github.com/XDarick/Alerta-Barrio.git
 cd Alerta-Barrio
 
 # 2. Install all dependencies
