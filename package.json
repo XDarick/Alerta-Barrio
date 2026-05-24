@@ -1,5 +1,5 @@
 {
-  "name": "Alerta-Barrio",
+  "name": "alertabarrio",
   "version": "1.0.0",
   "description": "Civic urban reporting platform for Lima, Peru — React + Node.js + AI",
   "scripts": {
