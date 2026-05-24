@@ -41,7 +41,7 @@ Citizens report urban problems — potholes, broken lights, waste, unsafe zones 
 ```bash
 # 1. Clone
 git clone https://github.com/Dakoyzu/alertabarrio.git
-cd alertabarrio
+cd Alerta-Barrio
 
 # 2. Install all dependencies
 npm run install:all
@@ -51,7 +51,6 @@ npm run dev
 ```
 
 - **Frontend** → http://localhost:5173
-- **Backend API** → http://localhost:3001/api
 
 ---
 
